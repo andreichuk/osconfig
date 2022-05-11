@@ -1,0 +1,1 @@
+$env:PATH += ':~/zig_stuff/compiler:~/zig_stuff/zls'
