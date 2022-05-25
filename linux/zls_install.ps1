@@ -4,7 +4,7 @@
 $url_zig_tools_src = "https://github.com/zigtools/zls"
 
 $folder_source = Join-Path $env:HOME "src" 
-$folder_zig_languageServer_source = Join-Path $folder_source "src_language_server"
+$folder_zig_languageServer_source = Join-Path $folder_source "zls"
 $folder_languageServer = Join-Path $env:HOME "zig_stuff" "language_server"
 $path_zls = Join-Path $folder_zig_languageServer_source "zig-out/bin/zls"
 
